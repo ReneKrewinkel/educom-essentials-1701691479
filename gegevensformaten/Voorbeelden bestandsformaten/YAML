@@ -1,0 +1,22 @@
+YAML
+
+#Comment: Student record
+#Describes some characteristics and preferences
+---
+name: The Goode Code #key-value
+age: 31
+hobbies: 
+  - JiuJitsu #first list item
+  - Cooking #second list item
+  - playing_with_Odie #third list item
+programming_languages:
+  - java: beginner
+  - python: beginner
+  - javascript: beginner
+  - C#: beginner
+  - Other: beginner
+favorite_food: 
+  - vegetables: broccoli 
+  - meat: venison
+  - fruits: banana
+  - snacks: sweets

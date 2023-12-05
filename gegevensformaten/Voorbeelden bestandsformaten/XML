@@ -1,0 +1,20 @@
+XML
+
+<student information>
+<personalia>
+    <name>Anne</name>
+    <age>31</age>
+</personalia>
+
+<location>
+    <street>AT</street>
+    <number>14</number>
+    <city>Waereldsjtad</city>
+</location>
+
+<contactinformation>
+    <phone>06-12345678</phone>
+    <email>thegoodecode@gmail.com</email>
+</contactinformation>
+
+</student information>
